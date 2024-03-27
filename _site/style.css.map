@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"style.scss"
+	],
+	"sourcesContent": [
+		"img {\n    width: 100%;\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,GAAG,AAAC,CACA,KAAK,CAAE,IAAI,CACd"
+}
